@@ -13,3 +13,7 @@ def say_hello ():
 
 def say_goodbye():
     print("goodbye")
+
+def ask_name():
+    name = input()
+    print("name")
