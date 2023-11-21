@@ -10,3 +10,5 @@ def substrat (a, b):
 print("hello")
 
 
+def say_goodbye():
+    print("goodbye")
