@@ -6,3 +6,7 @@ potato = "french fries"
 
 def substrat (a, b):
     return a-b
+
+print("hello")
+
+
