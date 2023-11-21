@@ -7,7 +7,8 @@ potato = "french fries"
 def substrat (a, b):
     return a-b
 
-print("hello")
+def say_hello ():
+    print("hello")
 
 
 def say_goodbye():
